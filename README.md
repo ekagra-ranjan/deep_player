@@ -2,6 +2,12 @@
 
 An online video streaming service which automatically extracts insights like actors, scenes, keywords and multilingual subtitles using Microsoft's Video Indexer API.
 
+## Authors
+
+* **Vivek Raj**  - [Deep Player](https://github.com/codervivek/deep_player)
+* **[Ekagra Ranjan](https://github.com/ekagra-ranjan)**
+* **[Pavan Kumar](https://github.com/pavan71198)**
+
 ## Screenshots
 
 ![Screenshot 1](https://github.com/codervivek/deep_player/blob/master/.vscode/Screenshot%20(1).png "Home Page")
@@ -72,11 +78,7 @@ in the directory which has manage.py to get your site up and running.
 
 TODO
 
-## Authors
 
-* **Vivek Raj**  - [Deep Player](https://github.com/codervivek/deep_player)
-* **[Ekagra Ranjan](https://github.com/ekagra-ranjan)**
-* **[Pavan Kumar](https://github.com/pavan71198)**
 
 ## License
 
